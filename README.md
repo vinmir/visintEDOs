@@ -2,7 +2,7 @@
 Projeto de modelagem computacional de sistemas dinâmicos acoplados utilizando NumPy e Matplotlib. A simualção é interativa, ou seja, os parâmetros iniciais para cada sistema são escolhidos com um clique ẽm qualquer região do quiver plot.
 
 # Requisitos
-+ Python: Matplotlib e Numpy
++ Python: Matplotlib, Numpy e Jupyter (Lab)
   + Utilizo Anaconda 2021+ em todos os meus projetos de desenolvimento Python. Esta distribuição atutomaticamente inclui a maior parte das bibliotecas de *Python científico*.
 
 # Imagens
