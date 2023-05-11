@@ -2,7 +2,7 @@
 Projeto de modelagem computacional de sistemas dinâmicos acoplados utilizando NumPy e Matplotlib. A simualção é interativa, ou seja, os parâmetros iniciais para cada sistema são escolhidos com um clique ẽm qualquer região do quiver plot.
 
 # Imagens
-## $\dot{x} = -x, \dot{y} = -y$
+## $\dot{x} = -x\\ \dot{y} = -y$
 ![fig_1](https://github.com/vinmir/visintEDOs/assets/133194350/ff72169e-f15f-4f71-a746-7890087311f8)
 
 
