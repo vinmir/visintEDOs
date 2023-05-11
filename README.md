@@ -6,6 +6,7 @@ Projeto de modelagem computacional de sistemas dinâmicos acoplados utilizando N
   + Utilizo Anaconda 2021+ em todos os meus projetos de desenolvimento Python. Esta distribuição atutomaticamente inclui a maior parte das bibliotecas de *Python científico*.
 
 # Imagens
+GIFs gravados com `byzanz`.
 ## $\dot{x} = -x,\quad \dot{y} = -y$
 ![fig_1](https://github.com/vinmir/visintEDOs/assets/133194350/ff72169e-f15f-4f71-a746-7890087311f8)
 
